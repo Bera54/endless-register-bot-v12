@@ -1,1 +1,1 @@
-s
+Komutları ve bot.js kısmını kendinize göre uyarlamayı unutmayın! Botu ilk açtığınızda bot 2-3 dakika sürecek bir dowloand yapacak. İşlem bittikten sonra kendinize göre editliyebilirsiniz! İyi kullanımlar
