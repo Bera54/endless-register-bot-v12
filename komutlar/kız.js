@@ -16,7 +16,7 @@ await member.setNickname(`● ${isim} | ${yas}`)
   member.roles.remove(""); //(Unregister) Rolünün ID'si
      const endlesskanal = message.guild.channels.cache.find(c => c.id == "") //Chat kanalının ID'si
     const embed1 = new Discord.MessageEmbed() 
-    .setDescription(`<@!${member.id}> **Aramıza <@ERKEKROLID> olarak katıldı sıcak bir hoşgeldin diyelim!** \`${member.guild.memberCount}\` **Üyeye Ulaştık**`) // Endless
+    .setDescription(`<@!${member.id}> **Aramıza <@KIZROLID> olarak katıldı sıcak bir hoşgeldin diyelim!** \`${member.guild.memberCount}\` **Üyeye Ulaştık**`) // Endless
     .setColor("RANDOM")
   let embed = new Discord.MessageEmbed() 
   .setColor("66FF00")                                                           
